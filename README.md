@@ -71,7 +71,7 @@ int main() {
 }
 ~~~
 ## Output:
-![image](https://github.com/user-attachments/assets/b810ca26-3f05-4760-90f4-d7b7ef293111)
+![Screenshot 2025-05-24 213721](https://github.com/user-attachments/assets/a08f7bf6-f61d-4c7a-94bd-7485c6a1e7ec)
 
 ## Result:
 The program is executed successfully.
